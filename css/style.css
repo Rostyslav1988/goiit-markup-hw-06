@@ -856,6 +856,7 @@ transition: 0.5s;
     border-radius: 4px;
     margin-top: 40px;
     cursor: pointer;
+    border: none;
 }
 
 .bord-clents {
@@ -1343,7 +1344,7 @@ border-radius: 4px;
 width: 200px;
 height: 50px;
 outline: none;
-
+border: none;
 display: flex;
 align-items: center;
 text-align: center;
